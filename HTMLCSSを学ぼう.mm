@@ -1,4 +1,4 @@
-<map version="1.0.1">
+<map version="1.1.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1665825952600" ID="ID_791529026" MODIFIED="1666248053909" TEXT="HTMLCSS&#x3092;&#x5b66;&#x307c;&#x3046;">
 <node CREATED="1666070261283" ID="ID_753059677" MODIFIED="1666070268563" POSITION="right" TEXT="HTMLCSS&#x306e;&#x57fa;&#x672c;">
@@ -221,6 +221,27 @@
 </node>
 </node>
 </node>
-<node CREATED="1666249172210" ID="ID_837368708" MODIFIED="1666249172210" POSITION="right" TEXT=""/>
+<node CREATED="1666249172210" ID="ID_837368708" MODIFIED="1666313666503" POSITION="right" TEXT="7&#x7ae0;&#xff1a;&#x30e1;&#x30a4;&#x30f3;&#x90e8;&#x5206;&#x3092;&#x4f5c;&#x308d;&#x3046;">
+<node CREATED="1666313667842" ID="ID_688154034" MODIFIED="1666313841125" TEXT="Web&#x30da;&#x30fc;&#x30b8;&#x306e;&#x30e1;&#x30a4;&#x30f3;&#x30b3;&#x30f3;&#x30c6;&#x30f3;&#x30c4;&#x306b;&#x3057;&#x305f;&#x3044;&#x8981;&#x7d20;&#x3059;&#x3079;&#x3066;&#x3092;&#x53ce;&#x3081;&#x308b;&#x3088;&#x3046;&#x306b;&#x3057;&#x307e;&#x3057;&#x3087;&#x3046;"/>
+<node CREATED="1666313869333" ID="ID_1145397259" MODIFIED="1666313876760" TEXT="&#x884c;&#x306e;&#x9ad8;&#x3055;&#x3092;&#x8a2d;&#x5b9a;&#x3059;&#x308b;">
+<node CREATED="1666313841825" ID="ID_810085210" MODIFIED="1666313863557" TEXT="line-height&#x30d7;&#x30ed;&#x30d1;&#x30c6;&#x30a3;"/>
+<node CREATED="1666313972238" ID="ID_414738355" MODIFIED="1666313973579" TEXT="line-height: 40px; /* &#x6587;&#x5b57;&#x306e;&#x884c;&#x306e;&#x9ad8;&#x3055;&#x306f;40px&#x306b;&#x306a;&#x308b; */"/>
+<node CREATED="1666313974340" ID="ID_374514595" MODIFIED="1666313984863" TEXT="line-height: 1.5; /* h2&#x306e;&#x30d5;&#x30a9;&#x30f3;&#x30c8;&#x30b5;&#x30a4;&#x30ba;&#x304c;10px&#x306e;&#x5834;&#x5408;&#x3001;&#x884c;&#x306e;&#x9ad8;&#x3055;&#x306f;1.5&#x500d;&#xff08;15px&#xff09;&#x306b;&#x306a;&#x308b; */"/>
+</node>
+<node CREATED="1666314583108" ID="ID_462119326" MODIFIED="1666314592094" TEXT="span&#x8981;&#x7d20;">
+<node CREATED="1666314593158" ID="ID_1761198326" MODIFIED="1666314615267" TEXT="&#x305d;&#x308c;&#x81ea;&#x4f53;&#x306f;&#x4f55;&#x3082;&#x610f;&#x5473;&#x3092;&#x6301;&#x3063;&#x3066;&#x3044;&#x307e;&#x305b;&#x3093;&#x3002;div&#x8981;&#x7d20;&#x3068;&#x540c;&#x69d8;&#x306e;&#x6a5f;&#x80fd;"/>
+<node CREATED="1666314618555" ID="ID_1470571386" MODIFIED="1666315161480" TEXT="p&#x8981;&#x7d20;&#x5185;&#x306a;&#x3069;&#x3067;&#x90e8;&#x5206;&#x7684;&#x306b;&#x30b9;&#x30bf;&#x30a4;&#x30eb;&#x30b7;&#x30fc;&#x30c8;&#x3092;&#x9069;&#x7528;&#x3059;&#x308b;&#x969b;&#x306b;&#x3088;&#x304f;&#x4f7f;&#x308f;&#x308c;&#x307e;&#x3059;"/>
+</node>
+<node CREATED="1666315176192" ID="ID_85842339" MODIFIED="1666315191900" TEXT="border-radius&#x30d7;&#x30ed;&#x30d1;&#x30c6;&#x30a3;">
+<node CREATED="1666315193076" ID="ID_1005531609" MODIFIED="1666315327985" TEXT="&#x9818;&#x57df;&#x306e;&#x56db;&#x8fba;&#x306e;&#x89d2;&#x3092;&#x4e38;&#x304f;&#x3057;&#x305f;&#x3044;&#x3068;&#x304d;&#x306b;&#x4f7f;&#x3046;"/>
+<node CREATED="1666315328683" ID="ID_1355798411" MODIFIED="1666315336504" TEXT=" /* &#x8981;&#x7d20;&#x306e;&#x5f62;&#x3092;&#x6b63;&#x5186;&#x306b;&#x3059;&#x308b; */   border-radius: 50%;"/>
+<node CREATED="1666315336781" ID="ID_10064465" MODIFIED="1666315345484" TEXT="/* &#x5c11;&#x3057;&#x3060;&#x3051;&#x89d2;&#x3092;&#x4e38;&#x3081;&#x308b; */   border-radius: 3px;"/>
+</node>
+<node CREATED="1666315468913" ID="ID_131726208" MODIFIED="1666315475519" TEXT="section&#x8981;&#x7d20;">
+<node CREATED="1666315476814" ID="ID_1103244831" MODIFIED="1666315488402" TEXT="&#x30da;&#x30fc;&#x30b8;&#x3084;&#x8a18;&#x4e8b;&#x306e;&#x4e00;&#x90e8;&#x5206;&#x3092;&#x8868;&#x3059;&#x8981;&#x7d20;"/>
+<node CREATED="1666315489926" ID="ID_1257661270" MODIFIED="1666315670994" TEXT="&#x7ae0;&#x3084;&#x7bc0;&#x3068;&#x540c;&#x69d8;&#x306e;&#x6a5f;&#x80fd;"/>
+<node CREATED="1666315671385" ID="ID_421949177" MODIFIED="1666315689364" TEXT="section&#x8981;&#x7d20;&#x5185;&#x306b;&#x306f;&#x5fc5;&#x305a;&#x898b;&#x51fa;&#x3057;&#x8981;&#x7d20;&#xff08;h&#x8981;&#x7d20;&#xff09;&#x304c;&#x5fc5;&#x8981;&#x3067;&#x3059;&#x3002;div&#x8981;&#x7d20;&#x3068;&#x9069;&#x5207;&#x306b;&#x4f7f;&#x3044;&#x5206;&#x3051;&#x3066;&#x304f;&#x3060;&#x3055;&#x3044;"/>
+</node>
+</node>
 </node>
 </map>
