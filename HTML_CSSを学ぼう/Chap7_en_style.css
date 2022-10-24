@@ -1,0 +1,23 @@
+/* ブラウザがそれぞれ持っているCSSをリセットするための記述 */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #6c6b6b;
+}
+.header {
+    width: 100%; /* 横幅いっぱい */
+    height: 400px; /* 高さ300px */
+    background-image: url(Chap7_en_img/mv.jpg);
+    background-size: cover;/*縦横比を維持したまま画像を埋めつくす*/
+    background-position: bottom;
+}
+h1{
+    padding: 20px;
+}
+.main-blog{
+    width: 840px; /* 横幅800px */
+    margin: 0 auto; /* 要素の中央揃え */
+    margin-top:20px;
+    border-bottom:5px;
+}
