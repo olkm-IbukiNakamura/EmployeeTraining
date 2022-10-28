@@ -1,0 +1,22 @@
+/* ブラウザがそれぞれ持っているCSSをリセットするための記述 */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #6c6b6b;
+  }
+.ItemList{
+    margin-bottom: 50px;
+}
+li{
+    width: 400px;
+    height: 20px;
+    padding: 20px;
+    list-style: none;
+}
+li:nth-child(odd){
+    background-color: aliceblue;
+}
+li:nth-child(even){
+    background-color:antiquewhite;
+}
