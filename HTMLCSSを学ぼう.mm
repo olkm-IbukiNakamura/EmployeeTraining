@@ -349,5 +349,23 @@
 </node>
 <node CREATED="1667156444703" ID="ID_1462957380" MODIFIED="1667156444703" TEXT=""/>
 </node>
+<node CREATED="1667800510602" ID="ID_830364144" MODIFIED="1667800531455" POSITION="right" TEXT="&#x8ab2;&#x984c;&#xff1a;&#x30ec;&#x30b9;&#x30dd;&#x30f3;&#x30b7;&#x30d6;&#x5bfe;&#x5fdc;&#x3055;&#x305b;&#x3088;&#x3046;">
+<node CREATED="1667800532719" ID="ID_1134962915" MODIFIED="1667800545998" TEXT="viewport&#x3068;&#x306f;">
+<node CREATED="1667800546776" ID="ID_1444924550" MODIFIED="1667803768328" TEXT="iewport&#xff08;&#x30d3;&#x30e5;&#x30fc;&#x30dd;&#x30fc;&#x30c8;&#xff09;&#x306f;&#x3001;&#x5404;&#x30c7;&#x30d0;&#x30a4;&#x30b9;&#x3067;&#x8868;&#x793a;&#x3055;&#x308c;&#x308b;&#x9818;&#x57df;&#x306e;&#x3053;&#x3068;&#x3067;&#x3059;&#x3002;"/>
+<node CREATED="1667803768329" ID="ID_1274799578" MODIFIED="1667803768330" TEXT="&#x3053;&#x306e;viewport&#x3092;&#x4f7f;&#x3063;&#x3066;&#x3001;&#x5404;&#x30c7;&#x30d0;&#x30a4;&#x30b9;&#x3067;&#x3069;&#x306e;&#x3088;&#x3046;&#x306b;&#x8868;&#x793a;&#x3055;&#x305b;&#x308b;&#x304b;&#x3092;&#x8a18;&#x8ff0;"/>
+<node CREATED="1667803804644" ID="ID_1143473112" MODIFIED="1667803806378" TEXT="&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width,initial-scale=1.0&quot;&gt;"/>
+<node CREATED="1667804830069" ID="ID_71906373" MODIFIED="1667804832002" TEXT="width=device-width">
+<node CREATED="1667804832940" ID="ID_1599054651" MODIFIED="1667804840113" TEXT="width&#x3067;&#x30b3;&#x30f3;&#x30c6;&#x30f3;&#x30c4;&#x306e;&#x8868;&#x793a;&#x9818;&#x57df;&#x3092;&#x6307;&#x5b9a;&#x3002;device-width&#x3068;&#x3059;&#x308b;&#x3053;&#x3068;&#x3067;&#x3001;&#x30c7;&#x30d0;&#x30a4;&#x30b9;&#x306e;&#x6a2a;&#x5e45;&#x304c;&#x81ea;&#x52d5;&#x7684;&#x306b;&#x9069;&#x7528;&#x3055;&#x308c;&#x308b;"/>
+</node>
+<node CREATED="1667804842255" ID="ID_1734273701" MODIFIED="1667804849441" TEXT="initial-scale=1.0">
+<node CREATED="1667804849950" ID="ID_638115717" MODIFIED="1667804856564" TEXT="initial-scale&#x3067;&#x8868;&#x793a;&#x500d;&#x7387;&#x3092;&#x6307;&#x5b9a;&#x3002;1.0&#x3068;&#x3059;&#x308b;&#x3053;&#x3068;&#x3067;&#x3001;&#x7b49;&#x500d;&#x306b;&#x306a;&#x308b;"/>
+</node>
+</node>
+<node CREATED="1667803853876" ID="ID_1506518400" MODIFIED="1667803855215" TEXT="&#x30e1;&#x30c7;&#x30a3;&#x30a2;&#x30af;&#x30a8;&#x30ea;&#x3068;&#x306f;">
+<node CREATED="1667803873677" ID="ID_532121775" MODIFIED="1667803874337" TEXT="&#x89e3;&#x50cf;&#x5ea6;&#x3084;&#x30d3;&#x30e5;&#x30fc;&#x30dd;&#x30fc;&#x30c8;&#x5e45;&#x306a;&#x3069;&#x306e;&#x6761;&#x4ef6;&#x306b;&#x5fdc;&#x3058;&#x3066;&#x3001;CSS&#x306e;&#x8a18;&#x8ff0;&#x3092;&#x5207;&#x308a;&#x66ff;&#x3048;&#x308b;&#x65b9;&#x6cd5;"/>
+<node CREATED="1667803874893" ID="ID_637962564" MODIFIED="1667804972667" TEXT="@media screen and ( )"/>
+<node CREATED="1667805007779" ID="ID_1944768002" MODIFIED="1667805010618" TEXT="/* &#x30bf;&#x30d6;&#x30ec;&#x30c3;&#x30c8;&#x6a2a;&#x7f6e;&#x304d;&#x30b5;&#x30a4;&#x30ba;&#xff08;1024px&#xff09;&#x4ee5;&#x4e0b;&#x306e;&#x969b;&#x306b;&#x9069;&#x7528;&#x3055;&#x308c;&#x308b;&#x8a2d;&#x5b9a; */ @media screen and (max-width:1024px) {   .social i {     color: green;   } }"/>
+</node>
+</node>
 </node>
 </map>
